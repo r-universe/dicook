@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mulgar"]
+	path = mulgar
+	url = https://github.com/dicook/mulgar
+	shallow = true
+	registered = true
 [submodule "nullabor"]
 	path = nullabor
 	url = https://github.com/dicook/nullabor
